@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajay-panchal
 - 👀 I’m interested in Data Science and Competitive Programming.
-- 🌱 I’m currently learning Power BI tools and worked/working on several projects which are related to Power BI. 
+- 🌱 I’m currently learning Power BI and worked/working on several projects which are related to Power BI. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Visit here for more : https://ajay-panchal-099.github.io/Portfolio/#home
 
