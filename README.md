@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @ajay-panchal
 - 👀 I’m interested in Software Development and Competitive Programming.
 
-- 📫 My Experience:
-- **Staff Engineer** at **Palo Alto Networks**: Integrated 5G cellular dependencies, streamlined hub-to-hub connectivity, and led critical feature development.
-- **SDE Intern** at **Amazon India**: Designed real-time SKU updates infrastructure using AWS services.
-- **Associate SWE** at **MAQ Software**: Developed Power BI projects and led Tableau to Power BI migration.
-- **Skills**: Python, Java, AWS, Git, and more.
+- 📫 **My Experience:**
+  - **Staff Engineer** at **Palo Alto Networks**: Integrated 5G cellular dependencies, streamlined hub-to-hub connectivity, and led critical feature development.
+  - **SDE Intern** at **Amazon India**: Designed real-time SKU updates infrastructure using AWS services.
+  - **Associate SWE** at **MAQ Software**: Developed Power BI projects and led Tableau to Power BI migration.
+  - **Skills**: Python, Java, AWS, Git, and more.
 
 
 <!---
