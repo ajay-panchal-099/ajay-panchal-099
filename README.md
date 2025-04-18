@@ -7,6 +7,8 @@
   - **Associate SWE** at **MAQ Software**: Developed Power BI projects and led Tableau to Power BI migration.
   - **Skills**: Python, Java, AWS, Git, and more.
 
+# My Wesbite: https://ajaystack.netlify.app/
+# My LinkedIn Profile: https://www.linkedin.com/in/ajay-kumar-099/
 
 <!---
 - 🌱 I’m currently learning ... 
